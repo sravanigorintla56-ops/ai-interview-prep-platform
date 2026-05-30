@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+models/*.pkl
+models/*.joblib
+vector_store/
+data/*.csv
+data/*.pdf
